@@ -1,0 +1,24 @@
+---
+title: "About"
+---
+
+##
+Background:
+I grew up in Moncton, New Brunwsick where I graduated from highschool. I decided to move to Halifax, Nova Scotia
+to attend Dalhousie University where I completed my Bachelors of Computer Science. I decided to move to Halifax
+because I still wanted to stay close to home but far enough that I still moved away and Dalhousie seemed like the
+best fit. 
+
+##
+Why Data Science:
+During my undergrad I completed the co-op program where I was able to get three placements at three different 
+companies. My roles were always based on the responsibilites of a data analyst and I was able to gain real- world
+experience on the impacts data analytics produce. I got more interested into data science during my last placement
+and decided I wanted to pursue a master and gain more knowledge about the field!
+
+##
+Outside of Data Science:
+When I'm not working on assignments or trying to understand what is happening, I like to hangout my friends, 
+do my nails and bedazzle things. I always like to have my nails done and in Halifax I used to go to the same nail
+technician for 4 years but since moving here I decided to start doing my own nails. Thats been my new hobby lately
+but I usually switching to other hobbies frequently as well!

@@ -1,0 +1,30 @@
+/* css styles */
+body {
+  background-color: #ffffea;
+  color: #333333;
+  font-family: Arial, sans-serif;
+}
+
+#quarto-content {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  color: #6b4f4f;
+  font-size: 2.5rem;
+}
+
+.navbar {
+    background-color: #0b2379;
+    color: #ffffea;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.navbar-title {
+  color: #ffffea;
+  font-size: 23px;
+  font-weight: 700;
+  
+}
