@@ -1,10 +1,52 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 10, 2026\n\n\nNikita Wadnikop\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nikita Wadnikop",
+    "section": "",
+    "text": "Hi, I’m Nikita Wadnikop!\nI’m an Masters of Data Science student. I recently moved to Vancouver from Halifax, Nova Scotia. I was studying at Dalhousie University in Halifax where I completed my Bachelors of Computer Science. I hope to strengthen my skill set and learn more about data science throughout the program!"
+  },
+  {
+    "objectID": "posts/first-weeks/index.html",
+    "href": "posts/first-weeks/index.html",
+    "title": "My first weeks in MDS",
+    "section": "",
+    "text": "First week of school! (Barry to my right, Migs across from me, Nitpreet in front of me)"
+  },
+  {
+    "objectID": "posts/first-weeks/index.html#section",
+    "href": "posts/first-weeks/index.html#section",
+    "title": "My first weeks in MDS",
+    "section": "",
+    "text": "First Week of Classes! The first week of classes were exciting, I feel like I had a lot of energy and motivation to stay on top of everything. There was a lot of information to retain about setting up everything and the softwares we use for each class as they differ and I have never used some of the platforms. I felt like the week was intense but still felt productive and like I was starting to understand how things operate and what is expected"
+  },
+  {
+    "objectID": "posts/first-weeks/index.html#section-1",
+    "href": "posts/first-weeks/index.html#section-1",
+    "title": "My first weeks in MDS",
+    "section": "",
+    "text": "What Surprised You! I was definely surprised by how fast we get through the lectures and cover multiple topics. I think also liveliness and amount of people on campus was different as I came from a smaller university. But everything is really nice on campus!"
+  },
+  {
+    "objectID": "posts/first-weeks/index.html#section-2",
+    "href": "posts/first-weeks/index.html#section-2",
+    "title": "My first weeks in MDS",
+    "section": "",
+    "text": "How It’s Going: We are now almost at the end of week two and I am defintely feeling the stress and understanding what the accerated part of an accerated masters program means. Next week, we have our exams so I’m starting to feel the stress of those assessments. It’s been a long 3 days with trying to stay on top of the labs and making sure I am fully understanding every concept covered in class."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Background: I grew up in Moncton, New Brunwsick where I graduated from highschool. I decided to move to Halifax, Nova Scotia to attend Dalhousie University where I completed my Bachelors of Computer Science. I decided to move to Halifax because I still wanted to stay close to home but far enough that I still moved away and Dalhousie seemed like the best fit."
+    "text": "I grew up in Moncton, New Brunwsick where I graduated from highschool. I decided to move to Halifax, Nova Scotia to attend Dalhousie University where I completed my Bachelors of Computer Science. I decided to move to Halifax because I still wanted to stay close to home but far enough that I still moved away and Dalhousie seemed like the best fit."
   },
   {
     "objectID": "about.html#section",
@@ -28,45 +70,52 @@
     "text": "Outside of Data Science: When I’m not working on assignments or trying to understand what is happening, I like to hangout my friends, do my nails and bedazzle things. I always like to have my nails done and in Halifax I used to go to the same nail technician for 4 years but since moving here I decided to start doing my own nails. Thats been my new hobby lately but I usually switching to other hobbies frequently as well!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nikita Wadnikop",
-    "section": "",
-    "text": "Hi, I’m Nikita Wadnikop!\nI’m an Masters of Data Science student. I recently moved to Vancouver from Halifax, Nova Scotia. I was studying at Dalhousie University in Halifax where I completed my Bachelors of Computer Science. I hope to strengthen my skill set and learn more about data science throughout the program!"
-  },
-  {
-    "objectID": "posts/first-weeks/index.html",
-    "href": "posts/first-weeks/index.html",
+    "objectID": "posts/first-weeks/index.html#orientation-day",
+    "href": "posts/first-weeks/index.html#orientation-day",
     "title": "My first weeks in MDS",
-    "section": "",
-    "text": "First week of school! (Barry to my right, Migs across from me, Nitpreet in front of me)\nOrientation Day! For our masters program, we had three days for orientation where we are able to meet and connect with new people, learn about the program, and do some fun activities. During orientation, I met some friends on the first day cause we had seating arrangements and I was placed between two cool people (Migs and Barry). The rest of the days had ice breakers and you were able to talk to everyone even people in section 2 (Nitpreet). So all in all it was a good orientation and start of the program."
+    "section": "Orientation Day!",
+    "text": "Orientation Day!\nFor our masters program, we had three days for orientation where we are able to meet and connect with new people, learn about the program, and do some fun activities. During orientation, I met some friends on the first day cause we had seating arrangements and I was placed between two cool people (Migs and Barry). The rest of the days had ice breakers and you were able to talk to everyone even people in section 2 (Nitpreet). So all in all it was a good orientation and start of the program."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 10, 2026\n\n\nNikita Wadnikop\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/first-weeks/index.html#section",
-    "href": "posts/first-weeks/index.html#section",
+    "objectID": "posts/first-weeks/index.html#first-week-of-classes",
+    "href": "posts/first-weeks/index.html#first-week-of-classes",
     "title": "My first weeks in MDS",
-    "section": "",
-    "text": "First Week of Classes! The first week of classes were exciting, I feel like I had a lot of energy and motivation to stay on top of everything. There was a lot of information to retain about setting up everything and the softwares we use for each class as they differ and I have never used some of the platforms. I felt like the week was intense but still felt productive and like I was starting to understand how things operate and what is expected"
+    "section": "First Week of Classes!",
+    "text": "First Week of Classes!\nThe first week of classes were exciting, I feel like I had a lot of energy and motivation to stay on top of everything. There was a lot of information to retain about setting up everything and the softwares we use for each class as they differ and I have never used some of the platforms. I felt like the week was intense but still felt productive and like I was starting to understand how things operate and what is expected"
   },
   {
-    "objectID": "posts/first-weeks/index.html#section-1",
-    "href": "posts/first-weeks/index.html#section-1",
+    "objectID": "posts/first-weeks/index.html#what-surprised-you",
+    "href": "posts/first-weeks/index.html#what-surprised-you",
     "title": "My first weeks in MDS",
-    "section": "",
-    "text": "What Surprised You! I was definely surprised by how fast we get through the lectures and cover multiple topics. I think also liveliness and amount of people on campus was different as I came from a smaller university. But everything is really nice on campus!"
+    "section": "What Surprised You!",
+    "text": "What Surprised You!\nI was definely surprised by how fast we get through the lectures and cover multiple topics. I think also liveliness and amount of people on campus was different as I came from a smaller university. But everything is really nice on campus!"
   },
   {
-    "objectID": "posts/first-weeks/index.html#section-2",
-    "href": "posts/first-weeks/index.html#section-2",
+    "objectID": "posts/first-weeks/index.html#how-its-going",
+    "href": "posts/first-weeks/index.html#how-its-going",
     "title": "My first weeks in MDS",
+    "section": "How It’s Going:",
+    "text": "How It’s Going:\nWe are now almost at the end of week two and I am defintely feeling the stress and understanding what the accerated part of an accerated masters program means. Next week, we have our exams so I’m starting to feel the stress of those assessments. It’s been a long 3 days with trying to stay on top of the labs and making sure I am fully understanding every concept covered in class."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
     "section": "",
-    "text": "How It’s Going: We are now almost at the end of week two and I am defintely feeling the stress and understanding what the accerated part of an accerated masters program means. Next week, we have our exams so I’m starting to feel the stress of those assessments. It’s been a long 3 days with trying to stay on top of the labs and making sure I am fully understanding every concept covered in class."
+    "text": "I grew up in Moncton, New Brunwsick where I graduated from highschool. I decided to move to Halifax, Nova Scotia to attend Dalhousie University where I completed my Bachelors of Computer Science. I decided to move to Halifax because I still wanted to stay close to home but far enough that I still moved away and Dalhousie seemed like the best fit."
+  },
+  {
+    "objectID": "about.html#why-data-science",
+    "href": "about.html#why-data-science",
+    "title": "About",
+    "section": "Why Data Science:",
+    "text": "Why Data Science:\nDuring my undergrad I completed the co-op program where I was able to get three placements at three different companies. My roles were always based on the responsibilites of a data analyst and I was able to gain real- world experience on the impacts data analytics produce. I got more interested into data science during my last placement and decided I wanted to pursue a master and gain more knowledge about the field!"
+  },
+  {
+    "objectID": "about.html#outside-of-data-science",
+    "href": "about.html#outside-of-data-science",
+    "title": "About",
+    "section": "Outside of Data Science:",
+    "text": "Outside of Data Science:\nWhen I’m not working on assignments or trying to understand what is happening, I like to hangout my friends, do my nails and bedazzle things. I always like to have my nails done and in Halifax I used to go to the same nail technician for 4 years but since moving here I decided to start doing my own nails. Thats been my new hobby lately but I usually switching to other hobbies frequently as well!"
   }
 ]
