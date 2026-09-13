@@ -9,6 +9,5 @@ about:
 Hi, I'm Nikita Wadnikop!
 
 I'm an Masters of Data Science student. I recently moved to Vancouver from Halifax, Nova Scotia. 
-I was studying at Dalhousie University in Halifax where I completed my Bachelors of Computer Science. I hope to strengthen my skill set 
-and learn more about data science throughout the program!
+I was studying at Dalhousie University in Halifax where I completed my Bachelors of Computer Science. I hope to strengthen my skill set and learn more about data science throughout the program!
 
